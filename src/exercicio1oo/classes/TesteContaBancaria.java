@@ -2,7 +2,7 @@ package exercicio1oo.classes;
 
 import java.util.Scanner;
 
-public class TesteContaBancaria {
+class TesteContaBancaria {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         ContaBancaria um = new ContaBancaria();
