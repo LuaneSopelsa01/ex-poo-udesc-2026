@@ -13,10 +13,10 @@ class TesteRetangulo {
         System.out.print("Largura: ");
         um.largura = leitor.nextDouble();
 
+
         System.out.println("Dados do Retangulo");
         System.out.println("               ");
         System.out.println("Altura:    " + um.altura);
         System.out.println("Largura:   " + um.largura);
-
     }
 }
